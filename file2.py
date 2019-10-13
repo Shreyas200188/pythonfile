@@ -1,1 +1,1 @@
-print("I am highly stuck")
+print ("I am highly stuck")
